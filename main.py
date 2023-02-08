@@ -1,8 +1,5 @@
-a =  int(input())
-n = 2
-while a != n and a >= n:
-    n = n * 2
-if a == n:
-    print("Yes")
-else:
-    print("No")
+n=int(input())
+x = 1
+while x ** 2 <= n:
+    print( x ** 2 )
+    x = x + 1
