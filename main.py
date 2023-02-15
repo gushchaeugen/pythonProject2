@@ -20,13 +20,13 @@
 
 
 
-#li = [5]
-#a = [1, -2, 3, -4, 5]
-#n = 0
-#for i in a:
-#    if i > 0:
-#       n += 1
-#print(n)
+li = [5]
+a = [1, -2, 3, -4, 5]
+n = 0
+for i in a:
+    if i > 0:
+       n += 1
+print(n)
 
 
 
@@ -39,8 +39,8 @@
 
 
 
-li = [5]
-a = [1, 5, 2, 4, 3]
-for i in range(1,len(a)):
-    if a [i] > a [i-1]:
-        print(a[i])
+#li = [5]
+#a = [1, 5, 2, 4, 3]
+#for i in range(1,len(a)):
+#    if a [i] > a [i-1]:
+#        print(a[i])
